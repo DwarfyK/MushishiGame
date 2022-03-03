@@ -1,0 +1,4 @@
+Til at udvikle programmet er der brugt et par libraries 
+og for at få dem til at fungere skal filerne "gifAnimation" og "sound"
+kopieres ind i proccesings libraries mappe, denne mappe kan findes i 
+Documents\Processing\libraries
